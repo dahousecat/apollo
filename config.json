@@ -1,0 +1,6 @@
+{
+  "MusicDir": "/music",
+  "Port": "8080",
+  "MpdAddress": "192.168.1.8:6600",
+  "MpdPassword": ""
+}
